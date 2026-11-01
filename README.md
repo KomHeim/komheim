@@ -1,9 +1,9 @@
-## Hi there!!!
+## Hi there! :-)
 
-Welcome to my GitHub profile.
+Just a simple monkey with a computer and too many ideas.
 
-I enjoy exploring technology, experimenting with new ideas, and building things along the way.
+I enjoy exploring technology, figuring out how things work, and occasionally building something useful along the way.
 
-This is where I share personal projects, experiments, and anything else I find interesting.
+My interests range from SDR, radio, cybersecurity, AI, and automation to software development, reverse engineering, and experimental projects.
 
-Always curious, always learning.
+lol
